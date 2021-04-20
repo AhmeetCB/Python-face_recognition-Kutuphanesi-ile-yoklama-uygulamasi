@@ -1,7 +1,7 @@
-# *Python face_recognition Kütüphanesi ile yoklama uygulaması
+# *Python face_recognition Kütüphanesi ile yoklama uygulaması*
 
 ## Projenin Amacı
-### *Sınıfın fotoğrafından öğrencileri tespit ederek yoklama alma işleminin daha hızlı yapılmasını sağlamak.
+### *Sınıfın fotoğrafından öğrencileri tespit ederek yoklama alma işleminin daha hızlı yapılmasını sağlamak.*
 
 ## Uygulamanın Kullanımı
 ![uygulama_dosyalari](https://user-images.githubusercontent.com/82876602/115394745-c639df00-a1eb-11eb-9465-dfc087fab736.PNG)
