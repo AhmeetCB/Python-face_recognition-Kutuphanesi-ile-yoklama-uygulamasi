@@ -1,0 +1,6 @@
+angela markel,./images/100255001-1.jpg,100255001
+brack obama,./images/100255002-1.jpg,100255002
+kral salman,./images/100255003-1.jpg,100255003
+shinzo abe,./images/100255010-1.jpg,100255010
+narendra_modi,./images/100255100-1.jpg,100255100
+vlademir putin,./images/100255150-1.jpg,100255150
