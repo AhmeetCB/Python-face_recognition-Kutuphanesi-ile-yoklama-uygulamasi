@@ -1,1 +1,3 @@
-# Python-face_recognition-Kutuphanesi-ile-yoklama-uygulamasi
+# Python face_recognition Kütüphanesi ile yoklama uygulaması
+
+##Projenin Amanı
